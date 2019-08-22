@@ -1,0 +1,6 @@
+server:
+  #设置程序启动端口号
+  port: 7000
+beetl:
+  #模板路径
+  templatesPath: templates
